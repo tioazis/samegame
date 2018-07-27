@@ -1,0 +1,26 @@
+﻿Build started 19/11/2015 22:55:15.
+     1>Project "E:\PENS\COLLEGE COURSE\Kelas 2\SEMESTER 3\Proyek 2\4210141021_SameGameProject\SameGame\SameGame\SameGame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\PENS\COLLEGE COURSE\Aplikasi Pendukung\Visual Studio Enterprise 15\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\SameGame.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\PENS\COLLEGE COURSE\Aplikasi Pendukung\Visual Studio Enterprise 15\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\SameGame.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp SameGame.cpp SameGameDoc.cpp SameGameView.cpp
+         SameGameView.cpp
+         SameGameDoc.cpp
+         SameGame.cpp
+         MainFrm.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\SameGame.res" SameGame.rc 
+       Link:
+         E:\PENS\COLLEGE COURSE\Aplikasi Pendukung\Visual Studio Enterprise 15\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\PENS\COLLEGE COURSE\Kelas 2\SEMESTER 3\Proyek 2\4210141021_SameGameProject\SameGame\Debug\SameGame.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\PENS\COLLEGE COURSE\Aplikasi Pendukung\Visual Studio Enterprise 15\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"E:\PENS\COLLEGE COURSE\Kelas 2\SEMESTER 3\Proyek 2\4210141021_SameGameProject\SameGame\Debug\SameGame.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\PENS\COLLEGE COURSE\Kelas 2\SEMESTER 3\Proyek 2\4210141021_SameGameProject\SameGame\Debug\SameGame.lib" /MACHINE:X86 Debug\SameGame.res
+         Debug\MainFrm.obj
+         Debug\SameGame.obj
+         Debug\SameGameDoc.obj
+         Debug\SameGameView.obj
+         Debug\stdafx.obj
+         SameGame.vcxproj -> E:\PENS\COLLEGE COURSE\Kelas 2\SEMESTER 3\Proyek 2\4210141021_SameGameProject\SameGame\Debug\SameGame.exe
+     1>Done Building Project "E:\PENS\COLLEGE COURSE\Kelas 2\SEMESTER 3\Proyek 2\4210141021_SameGameProject\SameGame\SameGame\SameGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:26.20
